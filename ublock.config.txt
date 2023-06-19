@@ -1,0 +1,73 @@
+! 2023-06-16 https://www.speedtest.cn
+www.speedtest.cn##.wg
+www.speedtest.cn##.sus-window
+
+! 2023-06-16 https://blog.csdn.net
+blog.csdn.net##.blog_container_aside
+
+! 2023-06-17 https://blog.csdn.net
+blog.csdn.net##.passport-login-container
+
+! 2023-06-17 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.css-1izy64v
+zhuanlan.zhihu.com##.Post-SideActions
+
+! 2023-06-17 https://www.jianshu.com
+www.jianshu.com##section.ouvJEz:nth-of-type(2)
+www.jianshu.com##section.ouvJEz:nth-of-type(3)
+
+! 2023-06-17 https://cn.bing.com
+cn.bing.com###b_context
+cn.bing.com##.slide-in.b_widgetContainer
+cn.bing.com##.ev_talkbox_wrapper_min
+cn.bing.com##.b_vidAns.b_ans
+cn.bing.com##.rh_reedm.toolTip.id_button
+
+! 2023-06-17 https://blog.csdn.net
+blog.csdn.net##.clearfix.align-items-stretch.recommend-right
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.recommend-box.first-recommend-box
+blog.csdn.net##.recommend-box-style.insert-baidu-box.recommend-box
+blog.csdn.net##.common-nps-box.recommend-nps-box
+blog.csdn.net##.recommend-box.second-recommend-box
+blog.csdn.net##.more-toolbox-new
+
+! 2023-06-17 https://juejin.cn
+juejin.cn##.article-sidebar.sidebar
+juejin.cn##.dynamic-data-ready.article-suspended-panel
+juejin.cn##.column-container
+juejin.cn##.category-course-recommend.wrap
+juejin.cn##.comment-list-box.container
+juejin.cn##.shadow.entry-list-container.recommended-area.main-area
+
+! 2023-06-17 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+zhuanlan.zhihu.com##.Recommendations-Main
+zhuanlan.zhihu.com##.Post-NormalSub.Post-Sub
+
+! 2023-06-17 https://www.jianshu.com
+www.jianshu.com##._2OwGUo
+www.jianshu.com##._3Pnjry
+www.jianshu.com##._13lIbp
+www.jianshu.com###note-page-comment
+
+! 2023-06-17 https://cn.bing.com
+cn.bing.com###relatedSearchesLGWContainer
+
+! 2023-06-17 https://www.modb.pro
+www.modb.pro##.p-hide.wd300.other-box
+www.modb.pro##.float-btn-group
+www.modb.pro##.emcs-table.mt10
+www.modb.pro##p:nth-of-type(53)
+www.modb.pro##div > section > section
+www.modb.pro###el-popover-421
+
+! 2023-06-17 https://www.zhihu.com
+www.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+www.zhihu.com##.css-1oy4rvw
+www.zhihu.com##.css-1izy64v
+
+! 2023-06-18 https://segmentfault.com
+segmentfault.com##div.card.mt-4:nth-of-type(4)
+segmentfault.com###answer-question
+
